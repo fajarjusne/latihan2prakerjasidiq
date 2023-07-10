@@ -25,20 +25,8 @@ func main() {
 }
 
 func perintah1() {
-	// Contoh slice input satu target string
-	//slice := []string{"apple", "banana", "apple", "orange", "apple", "grape"}
-
-	// String yang ingin dihitung kemunculannya
-	//targetString := "apple"
-
-	// Menghitung kemunculan string dalam slice
-	//occurrences := Mapping(slice, targetString)
-
-	// Menampilkan hasil
-	//fmt.Printf("Jumlah kemunculan string '%s' dalam slice: %d\n", targetString, occurrences)
-
-	//-------------------------------------------------------------------------------------------------
-	// Contoh slice input2 target string
+	
+	// slice input2 target string
 	slice := []string{"asd", "qwe", "asd", "adi", "qwe", "qwe"}
 
 	// String-target yang ingin dihitung kemunculannya
